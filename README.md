@@ -95,7 +95,7 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-https://github.com/GaurabKundu1/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot1/plot1.png
+![plot1](https://user-images.githubusercontent.com/86102231/195978448-eac87bcc-95ff-4172-b86e-6cdadafaa26a.png)
 
 
 ### Plot 2
